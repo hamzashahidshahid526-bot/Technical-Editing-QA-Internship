@@ -13,9 +13,6 @@ I have completed Task 1 and will complete Task 5 next.
 
 ### ✅ Task 1: Applying Standard Style Guides
 **Objective:** Edit a 500-word draft document to adhere strictly to Google Developer Documentation Style Guide.
-
-**Folder:** `task-1-style-guide/`
-
 **Files:**
 - `draft-before.md` - Original draft with 54 intentional errors (499 words)
 - `edited-after.md` - Edited version with 100% Google Style compliance
@@ -41,7 +38,7 @@ Coming on Wednesday - A comprehensive QA checklist for writing team.
 
 ## Submission
 - Portal: https://barakahtechlabs.com/submit-task
-- Task 1 GitHub: https://github.[STRIPPED 89 bytes]
+- Task 1 GitHub: https://github.com/hamzashahidshahid526-bot/Technical-Editing-QA-Internship.git
 
 ## Author
 Hamza Shahid - Technical Editing & QA Specialist Intern @ Barakah TechLabs
