@@ -4,7 +4,7 @@
 
 This guide explains how to use the Bank Management System. The system uses C++ and file handling for data storage.
 
-Use the system to manage bank accounts. The system stores data in a file named `accounts.dat`.
+Use the system to manage bank accounts. The system stores data in a file named `accounts.data`.
 
 Download the GitHub repository. After you download the repository, compile the code using `g++`.
 
